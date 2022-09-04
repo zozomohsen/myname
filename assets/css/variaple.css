@@ -1,0 +1,35 @@
+:root{
+    --red-orange-color-wheel: hsl(15,100%,55%);
+    --ultramarine-blue: hsl(217,100%,50%);
+    --levender-blue: hsl(229,96%,91%);
+    --oxford-blue: hsl(229,84%,12%);
+    --light-gray: hsl(0,0%,80%);
+    --sonic-silver: hsl(0,0%,47%);
+    --blue-crayole: hsl(228,98%,52%);
+    --cultured: hsl(228,26%,96%);
+    --white: hsl(0,0%,100%);
+    /*typogarphy*/
+    --fs-1:38px;
+    --fs-2:35px;
+    --fs-3:30px;
+    --fs-4:22px;
+    --fs-5:20px;
+    --fs-6:15px;
+
+
+    --fm-5:500;
+    --fm-6:600;
+    --fm-7:700;
+    --fm-8:800;
+    --fm-9:900;
+
+   /*spcing*/
+--px:15px;
+--py:80px;
+/*others*/
+--default-transition:0.25s ease;
+    
+
+
+
+}
